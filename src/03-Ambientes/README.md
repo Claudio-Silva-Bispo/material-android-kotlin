@@ -42,3 +42,24 @@ Conteúdo: [Aula_00](/01_Kotlin/00_Quarta_feira_02_08_2023/00_Inaugural/Aula%200
 :copyright: [@mvalbuquerque](http://www.linkedin.com/in/mvalbuquerque)
 
 "Se você seguir um passo de cada vez vai chegar longe. Lembre-se! É uma maratona, não uma corrida de cem metros."
+
+## 1. Instale o Kotlin: Se você ainda não o fez, pode instalar o Kotlin via Homebrew no macOS:
+
+```bash
+brew update
+```
+
+```bash
+brew install kotlin
+```
+
+## 2. Verifique a instalação: Após a instalação, verifique se o Kotlin está instalado corretamente executando:
+
+```bash
+kotlinc -version
+```
+
+## Funções
+
+***Pode ter ou não parametros e retorno***
+
