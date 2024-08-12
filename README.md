@@ -1,17 +1,9 @@
----
-marp: true
-theme: fiap-dark
----
-<!-- _class: logo -->
 
----
-<!--_class: title-->
 # Repositório Curso Graduação 
-## [2TDSPX] :: MAD FIAP ::
+### [2TDSPX] :: MAD FIAP ::
 
----
 
-# Aula 01 - Configuração de Ambiente @Windows
+## Aula 01 - Configuração de Ambiente - Windows
 
 - [ ] Instalando o Android Studio
 - [ ] Configurando ADT
@@ -20,11 +12,8 @@ theme: fiap-dark
 - [ ] Hello Word!
 - [ ] Perguntas e Respostas
 
-Conteúdo: [Aula_01](/embreve.pdf)
 
----
-
-# Aula 00 - Inaugural 
+## Aula 00 - Inaugural 
 
 - [X] Ementa
 - [X] Pré-Requisitos
@@ -32,10 +21,7 @@ Conteúdo: [Aula_01](/embreve.pdf)
 - [X] Mercado mobile
 - [X] Perguntas e Respostas
 
-Conteúdo: [Aula_00](/embreve.pdf)
 
----
-<!-- header: 'Dúvidas' -->
 :computer: Divirta-se!
 :school: Profº [Vinny Albuquerque](http://www.linkedin.com/in/mvalbuquerque)
 :email: profvinny.albuquerque@fiap.com.br
